@@ -7,5 +7,6 @@
 |--------|--------|------|-------|------|
 |78| [Subsets](https://leetcode.com/problems/subsets/description/) | Medium | `Array` `Backtrack`| [Python](problems/0078_subsets.py) |
 |133| [Clone Graph](https://leetcode.com/problems/clone-graph/description/) | Medium | `Hash Table` `DFS` `BFS` `Graph`| [Python](problems/0133_clone_graph.py) |
+|210| [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/) | Medium | `DFS` `BFS` `Graph` `Topological Sort`| [Python](problems/0210_course_schedule_ii.py) |
 |383| [Ransom Note](https://leetcode.com/problems/ransom-note/description/) | Easy | `Hash Table` `String` `Counting`| [Python](problems/0383_ransom_note.py) |
 |1530| [Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/description/) | Medium | `Tree` `DFS` `Binary Tree`| [Python](problems/1530_leaf_nodes_pairs.py) |
