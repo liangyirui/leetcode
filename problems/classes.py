@@ -38,3 +38,11 @@ class Trie:
                 node.children[ord(ch)] = self.TrieNode()
             node = node.children[ord(ch)]
         node.val = True
+
+
+class GraphNode:
+    """Definition of graph node"""
+
+    def __init__(self, val: int = 0, neighbors: list[Self] | None = None) -> None:
+        self.val = val
+        self.neighbors = neighbors if neighbors is not None else []
