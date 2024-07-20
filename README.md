@@ -14,4 +14,5 @@
 |826| [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/description/) | Medium | `Array` `Two Pointers` `Sorting` | [Python](problems/0826_most_profit_assigning_work.py) |
 |1509| [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/description/) | Medium | `Array` `Greedy` `Sorting`| [Python](problems/1509_minimum_difference_between_values.py) |
 |1530| [Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/description/) | Medium | `Tree` `DFS` `Binary Tree`| [Python](problems/1530_leaf_nodes_pairs.py) |
+|1598| [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/description/) | Easy | `Array` `String` `Stack`| [Python](problems/1598_crawler_log_folder.py) |
 |1605| [Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/description/) | Medium | `Array` `Greedy` `Matrix`| [Python](problems/1605_find_valid_matrix.py) |
