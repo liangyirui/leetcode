@@ -14,6 +14,7 @@
 |383| [Ransom Note](https://leetcode.com/problems/ransom-note/description/) | Easy | `Hash Table` `String` `Counting`| [Python](problems/0383_ransom_note.py) |
 |502| [IPO](https://leetcode.com/problems/ipo/description/) | Hard | `Array` `Greedy` `Sorting` `Heap` | [Python](problems/0502_ipo.py) |
 |826| [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/description/) | Medium | `Array` `Two Pointers` `Sorting` | [Python](problems/0826_most_profit_assigning_work.py) |
+|1382| [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/) | Medium | `Greedy` `Tree` `DFS` | [Python](problems/1382_balance_a_binary_search_tree.py) |
 |1509| [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/description/) | Medium | `Array` `Greedy` `Sorting`| [Python](problems/1509_minimum_difference_between_values.py) |
 |1530| [Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/description/) | Medium | `Tree` `DFS` `Binary Tree`| [Python](problems/1530_leaf_nodes_pairs.py) |
 |1598| [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/description/) | Easy | `Array` `String` `Stack`| [Python](problems/1598_crawler_log_folder.py) |
