@@ -8,7 +8,7 @@ Find any matrix of non-negative integers of size rowSum.length x colSum.length t
 Return a 2D array representing any matrix that fulfills the requirements. It's guaranteed that at least one matrix that fulfills the requirements exists.
 """
 
-from utils import print_matrix
+from _utils import print_matrix
 
 
 def restore_matrix(row_sum: list[int], col_sum: list[int]) -> list[list[int]]:

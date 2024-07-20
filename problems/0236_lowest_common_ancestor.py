@@ -5,7 +5,7 @@ https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/descriptio
 Given a binary tree, find the lowest common ancestor (LCA) of two given nodes in the tree.
 """
 
-from classes import TreeNode
+from _classes import TreeNode
 
 
 def lowest_common_ancestor(

@@ -10,7 +10,7 @@ Each node in the graph contains a value (int) and a list(list[Node]) of its neig
 
 from collections import deque
 
-from classes import GraphNode
+from _classes import GraphNode
 
 
 def clone_graph(node: GraphNode | None) -> GraphNode | None:

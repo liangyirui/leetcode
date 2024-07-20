@@ -7,7 +7,7 @@ You are given the root of a binary tree and an integer distance. A pair of two d
 Return the number of good leaf node pairs in the tree.
 """
 
-from classes import TreeNode
+from _classes import TreeNode
 
 
 def count_pairs(root: TreeNode, distance: int) -> int:

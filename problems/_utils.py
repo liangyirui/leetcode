@@ -1,4 +1,4 @@
-from classes import ListNode
+from _classes import ListNode
 
 
 def print_dict(hash_map: dict) -> None:
@@ -19,6 +19,15 @@ def linked_list_to_list(head: ListNode | None) -> list[int]:
         arr.append(head.val)
         head = head.next
     return arr
+
+
+def list_to_linked_list(arr: list[int]) -> ListNode | None:
+    sentinel = curr = ListNode()
+    for val in arr:
+        node = ListNode(val=val)
+        curr.next = node
+        curr = curr.next
+    return sentinel.next
 
 
 def print_linked_list(head: ListNode | None) -> None:
