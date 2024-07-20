@@ -9,6 +9,7 @@
 |78| [Subsets](https://leetcode.com/problems/subsets/description/) | Medium | `Array` `Backtrack`| [Python](problems/0078_subsets.py) |
 |133| [Clone Graph](https://leetcode.com/problems/clone-graph/description/) | Medium | `Hash Table` `DFS` `BFS` `Graph`| [Python](problems/0133_clone_graph.py) |
 |210| [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/) | Medium | `DFS` `BFS` `Graph` `Topological Sort`| [Python](problems/0210_course_schedule_ii.py) |
+|235| [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | Medium | `DFS` `Tree` `Binary Tree` `Binary Search Tree`| [Python](problems/235_lowest_common_ancestor_of_BST.py) |
 |383| [Ransom Note](https://leetcode.com/problems/ransom-note/description/) | Easy | `Hash Table` `String` `Counting`| [Python](problems/0383_ransom_note.py) |
 |502| [IPO](https://leetcode.com/problems/ipo/description/) | Hard | `Array` `Greedy` `Sorting` `Heap` | [Python](problems/0502_ipo.py) |
 |826| [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/description/) | Medium | `Array` `Two Pointers` `Sorting` | [Python](problems/0826_most_profit_assigning_work.py) |
