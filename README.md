@@ -26,5 +26,6 @@
 |1598| [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/description/) | Easy | `Array` `String` `Stack`| [Python](problems/1598_crawler_log_folder.py) |
 |1605| [Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/description/) | Medium | `Array` `Greedy` `Matrix`| [Python](problems/1605_find_valid_matrix.py) |
 |1636| [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/description/) | Easy | `Array` `Hash Table` `Sorting`| [Python](problems/1636_sort_array_by_increasing_frequency.py) |
+|2285| [Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/description/) | Medium | `Greedy` `Graph` `Sorting`| [Python](problems/2285_maximum_total_importance_of_roads.py) |
 |2392| [Build a Matrix with Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/description/) | Hard | `Array` `Graph` `Matrix` `Topological Sort`| [Python](problems/2392_build_a_matrix_with_conditions.py) |
 |2418| [Sort the People](https://leetcode.com/problems/sort-the-people/description/) | Easy | `Array` `Hash Table` `String` `Sorting`| [Python](problems/2418_sort_the_people.py) |
