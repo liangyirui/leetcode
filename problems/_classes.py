@@ -46,3 +46,32 @@ class GraphNode:
     def __init__(self, val: int = 0, neighbors: list[Self] | None = None) -> None:
         self.val = val
         self.neighbors = neighbors if neighbors is not None else []
+
+
+class UF:
+    """Union Find with path compression"""
+
+    def __init__(self, n: int) -> None:
+        self.parent = [i for i in range(n)]
+        self.size = [1] * n
+        self.components = n
+
+    def find(self, p: int) -> int:
+        if self.parent[p] == p:
+            return p
+        # path compression
+        self.parent[p] = self.find(self.parent[p])
+        return self.parent[p]
+
+    def union(self, p: int, q: int) -> bool:
+        p, q = self.find(p), self.find(q)
+        if p == q:
+            return False
+        if self.size[q] > self.size[p]:
+            self.parent[p] = q
+            self.size[q] += self.size[p]
+        else:
+            self.parent[q] = p
+            self.size[p] += self.size[q]
+        self.components -= 1
+        return True
