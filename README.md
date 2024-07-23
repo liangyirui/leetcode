@@ -5,6 +5,7 @@
 
 | Problem | Title | Difficulty | Topics | Solution |
 |--------|--------|------|-------|------|
+|65| [Valid Number](https://leetcode.com/problems/valid-number/description/) | Hard | `String` | [Python](problems/0065_valid_number.py) |
 |75| [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | Medium | `Array` `Sorting` `Two Pointers` | [Python](problems/0075_sort_colors.py) |
 |78| [Subsets](https://leetcode.com/problems/subsets/description/) | Medium | `Array` `Backtrack`| [Python](problems/0078_subsets.py) |
 |133| [Clone Graph](https://leetcode.com/problems/clone-graph/description/) | Medium | `Hash Table` `DFS` `BFS` `Graph`| [Python](problems/0133_clone_graph.py) |
