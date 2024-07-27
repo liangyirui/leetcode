@@ -22,7 +22,7 @@
 |912| [Sort an Array](https://leetcode.com/problems/sort-an-array/description/) | Medium | `Array` `Sorting` | [Python](problems/0912_sort_an_array.py) |
 |1002| [Find Common Characters](https://leetcode.com/problems/find-common-characters/description/) | Medium | `Array` `Hash Table` `Tree` `DFS` `Binary Tree` | [Python](problems/1110_delete_nodes_and_return_forest.py) |
 |1110| [Delete Nodes and Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/description/) | Easy | `Array` `Hash Table` `String` | [Python](problems/1002_find_common_characters.py) |
-|1334| [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/) | Easy | `Graph` `Shortest Path` | [Python](problems/1334_find_city_with_fewest_neighbors.py) |
+|1334| [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/) | Medium | `Graph` `Shortest Path` | [Python](problems/1334_find_city_with_fewest_neighbors.py) |
 |1382| [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/) | Medium | `Greedy` `Tree` `DFS` | [Python](problems/1382_balance_a_binary_search_tree.py) |
 |1509| [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/description/) | Medium | `Array` `Greedy` `Sorting`| [Python](problems/1509_minimum_difference_between_values.py) |
 |1530| [Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/description/) | Medium | `Tree` `DFS` `Binary Tree`| [Python](problems/1530_leaf_nodes_pairs.py) |
@@ -34,3 +34,4 @@
 |2285| [Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/description/) | Medium | `Greedy` `Graph` `Sorting`| [Python](problems/2285_maximum_total_importance_of_roads.py) |
 |2392| [Build a Matrix with Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/description/) | Hard | `Array` `Graph` `Matrix` `Topological Sort`| [Python](problems/2392_build_a_matrix_with_conditions.py) |
 |2418| [Sort the People](https://leetcode.com/problems/sort-the-people/description/) | Easy | `Array` `Hash Table` `String` `Sorting`| [Python](problems/2418_sort_the_people.py) |
+|2976| [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/) | Medium | `Array` `Graph` `String` `Shortest Path`| [Python](problems/2976_minimum_cost_to_convert_string_i.py) |
