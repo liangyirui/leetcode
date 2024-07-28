@@ -18,6 +18,7 @@
 |346| [Moving Average from Data Stream **(Premium)**](https://leetcode.com/problems/moving-average-from-data-stream/description/) | Easy | `Array` `Design` `Queue`| [Python](problems/0346_moving_average_from_data_stream.py) |
 |383| [Ransom Note](https://leetcode.com/problems/ransom-note/description/) | Easy | `Hash Table` `String` `Counting`| [Python](problems/0383_ransom_note.py) |
 |502| [IPO](https://leetcode.com/problems/ipo/description/) | Hard | `Array` `Greedy` `Sorting` `Heap` | [Python](problems/0502_ipo.py) |
+|787| [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) | Medium | `Graph` `Heap` `Shortest Path` | [Python](problems/0787_cheapest_flights_within_k_stops.py) |
 |826| [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/description/) | Medium | `Array` `Two Pointers` `Sorting` | [Python](problems/0826_most_profit_assigning_work.py) |
 |912| [Sort an Array](https://leetcode.com/problems/sort-an-array/description/) | Medium | `Array` `Sorting` | [Python](problems/0912_sort_an_array.py) |
 |1002| [Find Common Characters](https://leetcode.com/problems/find-common-characters/description/) | Medium | `Array` `Hash Table` `Tree` `DFS` `Binary Tree` | [Python](problems/1110_delete_nodes_and_return_forest.py) |
