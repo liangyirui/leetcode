@@ -75,3 +75,21 @@ class UF:
             self.size[p] += self.size[q]
         self.components -= 1
         return True
+
+
+class BIT:
+    def __init__(self, n: int) -> None:
+        self.tree = [0] * (n + 1)
+        self.n = n
+
+    def update(self, idx: int, val: int) -> None:
+        while idx <= self.n:
+            self.tree[idx] += val
+            idx += idx & (-idx)
+
+    def query(self, idx: int) -> int:
+        res = 0
+        while idx > 0:
+            res += self.tree[idx]
+            idx -= idx & (-idx)
+        return res
