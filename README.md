@@ -21,8 +21,9 @@
 |787| [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) | Medium | `Graph` `Heap` `Shortest Path` | [Python](problems/0787_cheapest_flights_within_k_stops.py) |
 |826| [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/description/) | Medium | `Array` `Two Pointers` `Sorting` | [Python](problems/0826_most_profit_assigning_work.py) |
 |912| [Sort an Array](https://leetcode.com/problems/sort-an-array/description/) | Medium | `Array` `Sorting` | [Python](problems/0912_sort_an_array.py) |
-|1002| [Find Common Characters](https://leetcode.com/problems/find-common-characters/description/) | Medium | `Array` `Hash Table` `Tree` `DFS` `Binary Tree` | [Python](problems/1110_delete_nodes_and_return_forest.py) |
-|1110| [Delete Nodes and Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/description/) | Easy | `Array` `Hash Table` `String` | [Python](problems/1002_find_common_characters.py) |
+|1002| [Find Common Characters](https://leetcode.com/problems/find-common-characters/description/) | Easy | `Array` `Hash Table` `String` | [Python](problems/1002_find_common_characters.py) |
+|1105| [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/description/) | Medium | `Array` `Dynamic Programming` | [Python](problems/1105_filling_bookcase_shelves.py) |
+|1110| [Delete Nodes and Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/description/) | Medium | `Array` `Hash Table` `Tree` `DFS` `Binary Tree`| [Python](problems/1110_delete_nodes_and_return_forest.py) |
 |1334| [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/) | Medium | `Graph` `Shortest Path` | [Python](problems/1334_find_city_with_fewest_neighbors.py) |
 |1382| [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/) | Medium | `Greedy` `Tree` `DFS` | [Python](problems/1382_balance_a_binary_search_tree.py) |
 |1395| [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/description/) | Medium | `Greedy` `Tree` `DFS` | [Python](problems/1382_balance_a_binary_search_tree.py) |
