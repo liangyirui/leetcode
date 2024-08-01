@@ -17,6 +17,7 @@
 |314| [Binary Tree Vertical Order Traversal **(Premium)**](https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/) | Medium | `Hash Table` `Tree` `DFS` `BFS` `Binary Tree`| [Python](problems/0270_closest_binary_search_tree_value.py) |
 |346| [Moving Average from Data Stream **(Premium)**](https://leetcode.com/problems/moving-average-from-data-stream/description/) | Easy | `Array` `Design` `Queue`| [Python](problems/0346_moving_average_from_data_stream.py) |
 |383| [Ransom Note](https://leetcode.com/problems/ransom-note/description/) | Easy | `Hash Table` `String` `Counting`| [Python](problems/0383_ransom_note.py) |
+|410| [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/) | Hard | `Array` `Greedy` `Dynamic Programming` `Binary Search`| [Python](problems/0410_split_array_largest_sum.py) |
 |502| [IPO](https://leetcode.com/problems/ipo/description/) | Hard | `Array` `Greedy` `Sorting` `Heap` | [Python](problems/0502_ipo.py) |
 |787| [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) | Medium | `Graph` `Heap` `Shortest Path` | [Python](problems/0787_cheapest_flights_within_k_stops.py) |
 |826| [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/description/) | Medium | `Array` `Two Pointers` `Sorting` | [Python](problems/0826_most_profit_assigning_work.py) |
