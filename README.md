@@ -29,6 +29,7 @@
 |1382| [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/) | Medium | `Greedy` `Tree` `DFS` | [Python](problems/1382_balance_a_binary_search_tree.py) |
 |1395| [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/description/) | Medium | `Greedy` `Tree` `DFS` | [Python](problems/1395_count_number_of_teams.py) |
 |1460| [Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/description/) | Easy | `Array` `Hash Table` `Sorting` | [Python](problems/1460_make_two_arrays_equal_by_reversing_subarrays.py) |
+|1508| [Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/description/) | Medium | `Array` `Priority Queue` `Sorting`| [Python](problems/1508_range_sum_of_sorted_subarray_sums.py) |
 |1509| [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/description/) | Medium | `Array` `Dynamic Programming` `Binary Indexed Tree`| [Python](problems/1509_mininum_difference_between_values.py) |
 |1530| [Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/description/) | Medium | `Tree` `DFS` `Binary Tree`| [Python](problems/1530_leaf_nodes_pairs.py) |
 |1598| [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/description/) | Easy | `Array` `String` `Stack`| [Python](problems/1598_crawler_log_folder.py) |
