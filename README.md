@@ -46,3 +46,4 @@
 |2392| [Build a Matrix with Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/description/) | Hard | `Array` `Graph` `Matrix` `Topological Sort`| [Python](problems/2392_build_a_matrix_with_conditions.py) |
 |2418| [Sort the People](https://leetcode.com/problems/sort-the-people/description/) | Easy | `Array` `Hash Table` `String` `Sorting`| [Python](problems/2418_sort_the_people.py) |
 |2976| [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/) | Medium | `Array` `Graph` `String` `Shortest Path`| [Python](problems/2976_minimum_cost_to_convert_string_i.py) |
+|3016| [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/description/) | Medium | `Hash Table` `String` `Greedy` `Sorting` `Counting` | [Python](problems/3016_minimum_number_of_pushes_to_type_word_ii.py) |
