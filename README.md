@@ -27,6 +27,7 @@
 |826| [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/description/) | Medium | `Array` `Two Pointers` `Sorting` | [Python](problems/0826_most_profit_assigning_work.py) |
 |885| [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/description/) | Medium | `Array` `Matrix` `Simulation` | [Python](problems/0885_spiral_matrix_iii.py) |
 |912| [Sort an Array](https://leetcode.com/problems/sort-an-array/description/) | Medium | `Array` `Sorting` | [Python](problems/0912_sort_an_array.py) |
+|959| [Regions Cut by Slashes](https://leetcode.com/problems/regions-cut-by-slashes/description/) | Medium | `Array` `DFS` `BFS` `Union Find` `Matrix` | [Python](problems/0959_regions_cut_by_slashes.py) |
 |1002| [Find Common Characters](https://leetcode.com/problems/find-common-characters/description/) | Easy | `Array` `Hash Table` `String` | [Python](problems/1002_find_common_characters.py) |
 |1105| [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/description/) | Medium | `Array` `Dynamic Programming` | [Python](problems/1105_filling_bookcase_shelves.py) |
 |1110| [Delete Nodes and Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/description/) | Medium | `Array` `Hash Table` `Tree` `DFS` `Binary Tree`| [Python](problems/1110_delete_nodes_and_return_forest.py) |
