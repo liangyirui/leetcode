@@ -63,6 +63,9 @@ class UF:
         self.parent[p] = self.find(self.parent[p])
         return self.parent[p]
 
+    def connected(self, p: int, q: int) -> bool:
+        return self.find(p) == self.find(q)
+
     def union(self, p: int, q: int) -> bool:
         p, q = self.find(p), self.find(q)
         if p == q:
@@ -75,6 +78,9 @@ class UF:
             self.size[p] += self.size[q]
         self.components -= 1
         return True
+
+    def components(self) -> int:
+        return self.components
 
 
 class BIT:
