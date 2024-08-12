@@ -21,6 +21,7 @@
 |383| [Ransom Note](https://leetcode.com/problems/ransom-note/description/) | Easy | `Hash Table` `String` `Counting`| [Python](problems/0383_ransom_note.py) |
 |410| [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/) | Hard | `Array` `Greedy` `Dynamic Programming` `Binary Search`| [Python](problems/0410_split_array_largest_sum.py) |
 |502| [IPO](https://leetcode.com/problems/ipo/description/) | Hard | `Array` `Greedy` `Sorting` `Heap` | [Python](problems/0502_ipo.py) |
+|703| [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/) | Easy | `Array` `Heap` `Data Stream` | [Python](problems/0703_kth_largest_element_in_a_stream.py) |
 |787| [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) | Medium | `Graph` `Heap` `Shortest Path` | [Python](problems/0787_cheapest_flights_within_k_stops.py) |
 |840| [Magic Squares in Grid](https://leetcode.com/problems/magic-squares-in-grid/description/) | Medium | `Array` `Hash Table` `Math` `Matrix` | [Python](problems/0840_magic_squares_in_grid.py) |
 |815| [Bus Routes](https://leetcode.com/problems/bus-routes/description/) | Hard | `Graph` `Hash Table` `BFS` | [Python](problems/0815_bus_routes.py) |
