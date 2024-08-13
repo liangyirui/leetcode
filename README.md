@@ -6,6 +6,7 @@
 | Problem | Title | Difficulty | Topics | Solution |
 |--------|--------|------|-------|------|
 |20| [Valid Parenthese](https://leetcode.com/problems/valid-parentheses/description/) | Easy | `String` `Stack` | [Python](problems/0020_valid_parentheses.py) |
+|40| [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | Medium | `Array` `Backtrack` | [Python](problems/0040_combination_sum_ii.py) |
 |42| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | Hard | `Array` `Two Pointers` | [Python](problems/0042_trapping_rain_water.py) |
 |65| [Valid Number](https://leetcode.com/problems/valid-number/description/) | Hard | `String` | [Python](problems/0065_valid_number.py) |
 |75| [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | Medium | `Array` `Sorting` `Two Pointers` | [Python](problems/0075_sort_colors.py) |
