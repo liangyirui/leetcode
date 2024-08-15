@@ -23,16 +23,19 @@
 |410| [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/) | Hard | `Array` `Greedy` `Dynamic Programming` `Binary Search`| [Python](problems/0410_split_array_largest_sum.py) |
 |502| [IPO](https://leetcode.com/problems/ipo/description/) | Hard | `Array` `Greedy` `Sorting` `Heap` | [Python](problems/0502_ipo.py) |
 |703| [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/) | Easy | `Array` `Heap` `Data Stream` | [Python](problems/0703_kth_largest_element_in_a_stream.py) |
+|719| [Find kth Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/) | Hard | `Array` `Two Pointers` `Binary Search` `Sorting` | [Python](problems/0719_find_kth_smallest_pair_distance.py) |
 |787| [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) | Medium | `Graph` `Heap` `Shortest Path` | [Python](problems/0787_cheapest_flights_within_k_stops.py) |
 |840| [Magic Squares in Grid](https://leetcode.com/problems/magic-squares-in-grid/description/) | Medium | `Array` `Hash Table` `Math` `Matrix` | [Python](problems/0840_magic_squares_in_grid.py) |
 |815| [Bus Routes](https://leetcode.com/problems/bus-routes/description/) | Hard | `Graph` `Hash Table` `BFS` | [Python](problems/0815_bus_routes.py) |
 |826| [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/description/) | Medium | `Array` `Two Pointers` `Sorting` | [Python](problems/0826_most_profit_assigning_work.py) |
+|860| [Lemonade Change](https://leetcode.com/problems/lemonade-change/description/) | Easy | `Array` `Greedy` | [Python](problems/0860_lemonade_change.py) |
 |885| [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/description/) | Medium | `Array` `Matrix` `Simulation` | [Python](problems/0885_spiral_matrix_iii.py) |
 |912| [Sort an Array](https://leetcode.com/problems/sort-an-array/description/) | Medium | `Array` `Sorting` | [Python](problems/0912_sort_an_array.py) |
 |959| [Regions Cut by Slashes](https://leetcode.com/problems/regions-cut-by-slashes/description/) | Medium | `Array` `DFS` `BFS` `Union Find` `Matrix` | [Python](problems/0959_regions_cut_by_slashes.py) |
 |1002| [Find Common Characters](https://leetcode.com/problems/find-common-characters/description/) | Easy | `Array` `Hash Table` `String` | [Python](problems/1002_find_common_characters.py) |
 |1105| [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/description/) | Medium | `Array` `Dynamic Programming` | [Python](problems/1105_filling_bookcase_shelves.py) |
 |1110| [Delete Nodes and Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/description/) | Medium | `Array` `Hash Table` `Tree` `DFS` `Binary Tree`| [Python](problems/1110_delete_nodes_and_return_forest.py) |
+|1192| [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/description/) | Hard | `Graph` `DFS` | [Python](problems/1192_critical_connections_in_a_network.py) |
 |1334| [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/) | Medium | `Graph` `Shortest Path` | [Python](problems/1334_find_city_with_fewest_neighbors.py) |
 |1382| [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/) | Medium | `Greedy` `Tree` `DFS` | [Python](problems/1382_balance_a_binary_search_tree.py) |
 |1395| [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/description/) | Medium | `Greedy` `Tree` `DFS` | [Python](problems/1395_count_number_of_teams.py) |
