@@ -15,6 +15,7 @@
 |210| [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/) | Medium | `DFS` `BFS` `Graph` `Topological Sort`| [Python](problems/0210_course_schedule_ii.py) |
 |235| [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | Medium | `DFS` `Tree` `Binary Tree` `Binary Search Tree`| [Python](problems/235_lowest_common_ancestor_of_BST.py) |
 |236| [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | Medium | `DFS` `Tree` `Binary Tree`| [Python](problems/0236_lowest_common_ancestor.py) |
+|264| [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/) | Medium | `Math` `Heap` `Dynamic Programming` | [Python](problems/0264_ugly_number_ii.py) |
 |270| [Colsest Binary Search Tree Value **(Premium)**](https://leetcode.com/problems/closest-binary-search-tree-value/description/) | Easy | `DFS` `Tree` `Binary Tree`| [Python](problems/0270_closest_binary_search_tree_value.py) |
 |273| [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) | Hard | `Math` `String` `REcursion` | [Python](problems/0273_interger_to_english_words.py) |
 |314| [Binary Tree Vertical Order Traversal **(Premium)**](https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/) | Medium | `Hash Table` `Tree` `DFS` `BFS` `Binary Tree`| [Python](problems/0270_closest_binary_search_tree_value.py) |
