@@ -25,6 +25,7 @@
 |410| [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/) | Hard | `Array` `Greedy` `Dynamic Programming` `Binary Search`| [Python](problems/0410_split_array_largest_sum.py) |
 |476| [Number Complement](https://leetcode.com/problems/number-complement/description/) | Easy | `Bit Manipulation` | [Python](problems/0476_number_complement.py) |
 |502| [IPO](https://leetcode.com/problems/ipo/description/) | Hard | `Array` `Greedy` `Sorting` `Heap` | [Python](problems/0502_ipo.py) |
+|564| [Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/description/) | Hard | `Math` `String` | [Python](problems/0564_find_the_closest_palindrome.py) |
 |592| [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/description/) | Medium | `Math` `String` `Simulation` | [Python](problems/0592_fraction_addition_and_subtraction.py) |
 |624| [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/description/) | Medium | `Array` `Greedy` | [Python](problems/0624_maximum_distance_in_arrays.py) |
 |650| [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/description/) | Medium | `Math` `Dynamic Programming` | [Python](problems/0650_2_keys_keyboard.py) |
