@@ -40,6 +40,7 @@
 |860| [Lemonade Change](https://leetcode.com/problems/lemonade-change/description/) | Easy | `Array` `Greedy` | [Python](problems/0860_lemonade_change.py) |
 |885| [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/description/) | Medium | `Array` `Matrix` `Simulation` | [Python](problems/0885_spiral_matrix_iii.py) |
 |912| [Sort an Array](https://leetcode.com/problems/sort-an-array/description/) | Medium | `Array` `Sorting` | [Python](problems/0912_sort_an_array.py) |
+|947| [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/description/) | Medium | `Graph` `Union Find` `DFS` | [Python](problems/0947_most_stones_removed_with_same_row_or_column.py) |
 |959| [Regions Cut by Slashes](https://leetcode.com/problems/regions-cut-by-slashes/description/) | Medium | `Array` `DFS` `BFS` `Union Find` `Matrix` | [Python](problems/0959_regions_cut_by_slashes.py) |
 |1002| [Find Common Characters](https://leetcode.com/problems/find-common-characters/description/) | Easy | `Array` `Hash Table` `String` | [Python](problems/1002_find_common_characters.py) |
 |1105| [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/description/) | Medium | `Array` `Dynamic Programming` | [Python](problems/1105_filling_bookcase_shelves.py) |
