@@ -12,6 +12,7 @@
 |75| [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | Medium | `Array` `Sorting` `Two Pointers` | [Python](problems/0075_sort_colors.py) |
 |78| [Subsets](https://leetcode.com/problems/subsets/description/) | Medium | `Array` `Backtrack`| [Python](problems/0078_subsets.py) |
 |133| [Clone Graph](https://leetcode.com/problems/clone-graph/description/) | Medium | `Hash Table` `DFS` `BFS` `Graph`| [Python](problems/0133_clone_graph.py) |
+|139| [Word Break](https://leetcode.com/problems/word-break/description/) | Medium | `Hash Table` `Dynamic Programming` | [Python](problems/0139_word_break.py) |
 |145| [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | Easy | `Tree` `Stack` `Binary Tree` | [Python](problems/0145_binary_tree_postorder_traversal.py) |
 |210| [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/) | Medium | `DFS` `BFS` `Graph` `Topological Sort`| [Python](problems/0210_course_schedule_ii.py) |
 |235| [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | Medium | `DFS` `Tree` `Binary Tree` `Binary Search Tree`| [Python](problems/235_lowest_common_ancestor_of_BST.py) |
