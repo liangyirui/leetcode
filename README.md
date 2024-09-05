@@ -40,6 +40,7 @@
 |815| [Bus Routes](https://leetcode.com/problems/bus-routes/description/) | Hard | `Graph` `Hash Table` `BFS` | [Python](problems/0815_bus_routes.py) |
 |826| [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/description/) | Medium | `Array` `Two Pointers` `Sorting` | [Python](problems/0826_most_profit_assigning_work.py) |
 |860| [Lemonade Change](https://leetcode.com/problems/lemonade-change/description/) | Easy | `Array` `Greedy` | [Python](problems/0860_lemonade_change.py) |
+|874| [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/description/) | Medium | `Simulation` | [Python](problems/0874_walking_robot_simulation.py) |
 |885| [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/description/) | Medium | `Array` `Matrix` `Simulation` | [Python](problems/0885_spiral_matrix_iii.py) |
 |912| [Sort an Array](https://leetcode.com/problems/sort-an-array/description/) | Medium | `Array` `Sorting` | [Python](problems/0912_sort_an_array.py) |
 |947| [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/description/) | Medium | `Graph` `Union Find` `DFS` | [Python](problems/0947_most_stones_removed_with_same_row_or_column.py) |
