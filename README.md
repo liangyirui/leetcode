@@ -78,3 +78,4 @@
 |2699| [Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights/description/) | Hard | `Graph` `Priority Queue` | [Python](problems/2699_modify_graph_edge_weights.py) |
 |2976| [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/) | Medium | `Array` `Graph` `String` `Shortest Path`| [Python](problems/2976_minimum_cost_to_convert_string_i.py) |
 |3016| [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/description/) | Medium | `Hash Table` `String` `Greedy` `Sorting` `Counting` | [Python](problems/3016_minimum_number_of_pushes_to_type_word_ii.py) |
+|3217| [Delete Nodes from Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/description/) | Medium | `Array` `Hash Table` `Linked List` | [Python](problems/3217_delete_nodes_from_linkedlist_present_in_array.py) |
