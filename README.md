@@ -73,6 +73,7 @@
 |2134| [Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/description/) | Medium | `Array` `Sliding Window` | [Python](problems/2134_minimum_swaps_to_group_all_1s_together_ii.py) |
 |2191| [Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/description/) | Medium | `Array` `Sorting`| [Python](problems/2191_sort_the_jumbled_numbers.py) |
 |2192| [All Ancestors of a Node in a Directed Acyclic Graph](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/description/) | Medium | `Graph` `DFS` `BFS` `Topological Sort` | [Python](problems/2192_all_ancestors_of_nodes_in_dag.py) |
+|2220| [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/description/) | Easy | `Bit Manipulation` | [Python](problems/2220_minimum_bit_flips_to_convert_number.py) |
 |2285| [Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/description/) | Medium | `Greedy` `Graph` `Sorting`| [Python](problems/2285_maximum_total_importance_of_roads.py) |
 |2392| [Build a Matrix with Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/description/) | Hard | `Array` `Graph` `Matrix` `Topological Sort`| [Python](problems/2392_build_a_matrix_with_conditions.py) |
 |2418| [Sort the People](https://leetcode.com/problems/sort-the-people/description/) | Easy | `Array` `Hash Table` `String` `Sorting`| [Python](problems/2418_sort_the_people.py) |
