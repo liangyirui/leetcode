@@ -51,6 +51,7 @@
 |1110| [Delete Nodes and Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/description/) | Medium | `Array` `Hash Table` `Tree` `DFS` `Binary Tree`| [Python](problems/1110_delete_nodes_and_return_forest.py) |
 |1140| [Stone Game II](https://leetcode.com/problems/stone-game-ii/description/) | Medium | `Array` `Math` `Dynamic Programming` | [Python](problems/1140_stone_game_ii.py)
 |1192| [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/description/) | Hard | `Graph` `DFS` | [Python](problems/1192_critical_connections_in_a_network.py) |
+|1310| [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/description/) | Medium | `Array` `Bit Manipulation` `Prefix Sum` | [Python](problems/1310_xor_queries_of_a_subarray.py) |
 |1334| [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/) | Medium | `Graph` `Shortest Path` | [Python](problems/1334_find_city_with_fewest_neighbors.py) |
 |1382| [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/) | Medium | `Greedy` `Tree` `DFS` | [Python](problems/1382_balance_a_binary_search_tree.py) |
 |1395| [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/description/) | Medium | `Greedy` `Tree` `DFS` | [Python](problems/1395_count_number_of_teams.py) |
