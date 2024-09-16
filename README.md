@@ -28,6 +28,7 @@
 |410| [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/) | Hard | `Array` `Greedy` `Dynamic Programming` `Binary Search`| [Python](problems/0410_split_array_largest_sum.py) |
 |476| [Number Complement](https://leetcode.com/problems/number-complement/description/) | Easy | `Bit Manipulation` | [Python](problems/0476_number_complement.py) |
 |502| [IPO](https://leetcode.com/problems/ipo/description/) | Hard | `Array` `Greedy` `Sorting` `Heap` | [Python](problems/0502_ipo.py) |
+|539| [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/description/) | Medium | `Array` `String` `Sorting` | [Python](problems/0539_minimum_time_difference.py) |
 |564| [Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/description/) | Hard | `Math` `String` | [Python](problems/0564_find_the_closest_palindrome.py) |
 |590| [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/) | Easy | `Tree` `Stack` | [Python](problems/0590_nary_tree_postorder_traversal.py) |
 |592| [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/description/) | Medium | `Math` `String` `Simulation` | [Python](problems/0592_fraction_addition_and_subtraction.py) |
