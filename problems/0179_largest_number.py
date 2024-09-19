@@ -22,4 +22,4 @@ def cmp_func(a: str, b: str) -> int:
         return 1
     if a == b:
         return 0
-    return -1:
+    return -1
