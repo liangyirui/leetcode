@@ -28,6 +28,7 @@
 |392| [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) | Easy | `String` `Two Pointers` | [Python](problems/0392_is_subsequence.py) |
 |409| [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/) | Easy | `Hash Table` `String` `Greedy` | [Python](problems/0409_longest_palindrome.py) |
 |410| [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/) | Hard | `Array` `Greedy` `Dynamic Programming` `Binary Search`| [Python](problems/0410_split_array_largest_sum.py) |
+|440| [K-th Smallest in Lexicogrphical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/) | `Trie` | [Python](problems/0440_kth_smallest_in_lexicographical_order.py) |
 |476| [Number Complement](https://leetcode.com/problems/number-complement/description/) | Easy | `Bit Manipulation` | [Python](problems/0476_number_complement.py) |
 |502| [IPO](https://leetcode.com/problems/ipo/description/) | Hard | `Array` `Greedy` `Sorting` `Heap` | [Python](problems/0502_ipo.py) |
 |539| [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/description/) | Medium | `Array` `String` `Sorting` | [Python](problems/0539_minimum_time_difference.py) |
