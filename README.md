@@ -84,6 +84,7 @@
 |2220| [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/description/) | Easy | `Bit Manipulation` | [Python](problems/2220_minimum_bit_flips_to_convert_number.py) |
 |2285| [Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/description/) | Medium | `Greedy` `Graph` `Sorting`| [Python](problems/2285_maximum_total_importance_of_roads.py) |
 |2392| [Build a Matrix with Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/description/) | Hard | `Array` `Graph` `Matrix` `Topological Sort`| [Python](problems/2392_build_a_matrix_with_conditions.py) |
+|2416| [Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/description/) | Hard | `Trie` | [Python](problems/2416_sum_of_prefix_scores_of_strings.py) |
 |2418| [Sort the People](https://leetcode.com/problems/sort-the-people/description/) | Easy | `Array` `Hash Table` `String` `Sorting`| [Python](problems/2418_sort_the_people.py) |
 |2419| [Longest Subarray with Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/description/) | `Array` `Bit Manipulation` | [Python](problems/2419_longest_subarray_with_maximum_bitwise_and.py) |
 |2699| [Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights/description/) | Hard | `Graph` `Priority Queue` | [Python](problems/2699_modify_graph_edge_weights.py) |
