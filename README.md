@@ -40,6 +40,7 @@
 |703| [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/) | Easy | `Array` `Heap` `Data Stream` | [Python](problems/0703_kth_largest_element_in_a_stream.py) |
 |719| [Find kth Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/) | Hard | `Array` `Two Pointers` `Binary Search` `Sorting` | [Python](problems/0719_find_kth_smallest_pair_distance.py) |
 |725| [Split List to Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/) | Medium | `Linked List` | [Python](problems/0725_split_linked_list_in_parts.py) |
+|729| [My Calendar I](https://leetcode.com/problems/my-calendar-i/) | Medium | `Array` `Binary Search` `Design` `Ordered Set` | [Python](problems/0729_my_calendar_i.py) |
 |787| [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) | Medium | `Graph` `Heap` `Shortest Path` | [Python](problems/0787_cheapest_flights_within_k_stops.py) |
 |840| [Magic Squares in Grid](https://leetcode.com/problems/magic-squares-in-grid/description/) | Medium | `Array` `Hash Table` `Math` `Matrix` | [Python](problems/0840_magic_squares_in_grid.py) |
 |815| [Bus Routes](https://leetcode.com/problems/bus-routes/description/) | Hard | `Graph` `Hash Table` `BFS` | [Python](problems/0815_bus_routes.py) |
