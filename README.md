@@ -36,6 +36,7 @@
 |590| [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/) | Easy | `Tree` `Stack` | [Python](problems/0590_nary_tree_postorder_traversal.py) |
 |592| [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/description/) | Medium | `Math` `String` `Simulation` | [Python](problems/0592_fraction_addition_and_subtraction.py) |
 |624| [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/description/) | Medium | `Array` `Greedy` | [Python](problems/0624_maximum_distance_in_arrays.py) |
+|641| [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/description/) | Medium | `Array` `Design` `Deque` | [Python](problems/0641_design_circular_deque.py) |
 |650| [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/description/) | Medium | `Math` `Dynamic Programming` | [Python](problems/0650_2_keys_keyboard.py) |
 |703| [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/) | Easy | `Array` `Heap` `Data Stream` | [Python](problems/0703_kth_largest_element_in_a_stream.py) |
 |719| [Find kth Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/) | Hard | `Array` `Two Pointers` `Binary Search` `Sorting` | [Python](problems/0719_find_kth_smallest_pair_distance.py) |
