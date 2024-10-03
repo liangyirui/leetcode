@@ -72,6 +72,7 @@
 |1514| [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/description/) | Medium | `Graph` `Priority Queue` | [Python](problems/1514_path_with_maximum_probability.py) |
 |1530| [Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/description/) | Medium | `Tree` `DFS` `Binary Tree`| [Python](problems/1530_leaf_nodes_pairs.py) |
 |1568| [Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/) | Hard | `Matrix` `BFS` `DFS` | [Python](problems/1568_minimum_number_of_days_to_disconnect_island.py) |
+|1590| [Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/description/) | Medium | `Array` `Hash Table` `Prefix Sum` | [Python](problems/1590_make_sum_divisible_by_p.py) |
 |1598| [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/description/) | Easy | `Array` `String` `Stack`| [Python](problems/1598_crawler_log_folder.py) |
 |1605| [Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/description/) | Medium | `Array` `Greedy` `Matrix`| [Python](problems/1605_find_valid_matrix.py) |
 |1636| [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/description/) | Easy | `Array` `Hash Table` `Sorting`| [Python](problems/1636_sort_array_by_increasing_frequency.py) |
