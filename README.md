@@ -65,6 +65,7 @@
 |1381| [Design a Stack with Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) | Medium | `Array` `Stack` `Design` | [Python](problems/1381_design_a_stack_with_increment_operation.py) |
 |1382| [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/) | Medium | `Greedy` `Tree` `DFS` | [Python](problems/1382_balance_a_binary_search_tree.py) |
 |1395| [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/description/) | Medium | `Greedy` `Tree` `DFS` | [Python](problems/1395_count_number_of_teams.py) |
+|1405| [Longest Happy String](https://leetcode.com/problems/longest-happy-string/description/) | Medium | `Greedy` `Priority Queue` | [Python](problems/1405_longest_happy_string.py) |
 |1460| [Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/description/) | Easy | `Array` `Hash Table` `Sorting` | [Python](problems/1460_make_two_arrays_equal_by_reversing_subarrays.py) |
 |1497| [Check if Array Pairs are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/description/) | Medium | `Array` `Hash Table` `Counting` | [Python](problems/1497_check_if_array_pairs_are_divisible_by_k.py) |
 |1508| [Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/description/) | Medium | `Array` `Priority Queue` `Sorting`| [Python](problems/1508_range_sum_of_sorted_subarray_sums.py) |
