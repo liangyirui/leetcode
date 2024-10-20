@@ -56,6 +56,7 @@
 |959| [Regions Cut by Slashes](https://leetcode.com/problems/regions-cut-by-slashes/description/) | Medium | `Array` `DFS` `BFS` `Union Find` `Matrix` | [Python](problems/0959_regions_cut_by_slashes.py) |
 |1002| [Find Common Characters](https://leetcode.com/problems/find-common-characters/description/) | Easy | `Array` `Hash Table` `String` | [Python](problems/1002_find_common_characters.py) |
 |1105| [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/description/) | Medium | `Array` `Dynamic Programming` | [Python](problems/1105_filling_bookcase_shelves.py) |
+|1106| [Parsing a Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/description/) | Hard | `String` `Stack` | [Python](problems/1106_parsing_a_boolean_expression.py ) |
 |1110| [Delete Nodes and Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/description/) | Medium | `Array` `Hash Table` `Tree` `DFS` `Binary Tree`| [Python](problems/1110_delete_nodes_and_return_forest.py) |
 |1140| [Stone Game II](https://leetcode.com/problems/stone-game-ii/description/) | Medium | `Array` `Math` `Dynamic Programming` | [Python](problems/1140_stone_game_ii.py)
 |1192| [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/description/) | Hard | `Graph` `DFS` | [Python](problems/1192_critical_connections_in_a_network.py) |
