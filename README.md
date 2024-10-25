@@ -61,6 +61,7 @@
 |1110| [Delete Nodes and Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/description/) | Medium | `Array` `Hash Table` `Tree` `DFS` `Binary Tree`| [Python](problems/1110_delete_nodes_and_return_forest.py) |
 |1140| [Stone Game II](https://leetcode.com/problems/stone-game-ii/description/) | Medium | `Array` `Math` `Dynamic Programming` | [Python](problems/1140_stone_game_ii.py)
 |1192| [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/description/) | Hard | `Graph` `DFS` | [Python](problems/1192_critical_connections_in_a_network.py) |
+|1233| [Remove Sub-folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/description/) | Medium | `Hash Table` `Sorting` `Trie` | [Python](problems/1233_remove_sub_folders_from_the_filesystem.py) |
 |1310| [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/description/) | Medium | `Array` `Bit Manipulation` `Prefix Sum` | [Python](problems/1310_xor_queries_of_a_subarray.py) |
 |1331| [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/description/) | Easy | `Array` `Sorting` `Hash Table` | [Python](1331_rank_transform_of_an_array.py) |
 |1334| [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/) | Medium | `Graph` `Shortest Path` | [Python](problems/1334_find_city_with_fewest_neighbors.py) |
