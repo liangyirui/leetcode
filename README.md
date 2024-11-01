@@ -89,6 +89,7 @@
 |1905| [Count Sub Islands](https://leetcode.com/problems/count-sub-islands/description/) | Medium | `Array` `DFS` `Matrix` | [Python](problems/1905_count_sub_islands.py) |
 |1937| [Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost/description/) | Medium | `Array` `Dynamic Programming` | [Python](problems/1937_maximum_number_of_points_with_cost.py) |
 |1945| [Sum of Digits of String after Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/description/) | Easy | `String` `Simulation` | [Python](problems/1945_sum_of_digits_of_string_after_convert.py) |
+|1957| [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/description/) | Easy | `String` | [Python](problems/1957_delete_characters_to_make_fancy_string.py) |
 |2044| [Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/description/) | Medium | `Array` `Backtracking` `Bit Manipulation` | [Python](problems/2044_count_number_of_maximum_bitwise_or_subsets.py) |
 |2045| [Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/) | Hard | `Graph` `Shortest Path` `BFS`| [Python](problems/2045_second_minimum_time_to_reach_destination.py) |
 |2053| [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/description/) | Easy | `Array` `Hash Table` `Counting` | [Python](problems/2053_kth_distinct_string_in_an_array.py) |
