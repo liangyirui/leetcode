@@ -44,6 +44,7 @@
 |725| [Split List to Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/) | Medium | `Linked List` | [Python](problems/0725_split_linked_list_in_parts.py) |
 |729| [My Calendar I](https://leetcode.com/problems/my-calendar-i/) | Medium | `Array` `Binary Search` `Design` `Ordered Set` | [Python](problems/0729_my_calendar_i.py) |
 |787| [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) | Medium | `Graph` `Heap` `Shortest Path` | [Python](problems/0787_cheapest_flights_within_k_stops.py) |
+|796| [Rotate String](https://leetcode.com/problems/rotate-string/description/) | Easy | `String` | [Python](problems/0796_rotate_string.py) |
 |840| [Magic Squares in Grid](https://leetcode.com/problems/magic-squares-in-grid/description/) | Medium | `Array` `Hash Table` `Math` `Matrix` | [Python](problems/0840_magic_squares_in_grid.py) |
 |815| [Bus Routes](https://leetcode.com/problems/bus-routes/description/) | Hard | `Graph` `Hash Table` `BFS` | [Python](problems/0815_bus_routes.py) |
 |826| [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/description/) | Medium | `Array` `Two Pointers` `Sorting` | [Python](problems/0826_most_profit_assigning_work.py) |
