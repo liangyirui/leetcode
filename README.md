@@ -109,6 +109,7 @@
 |2490| [Circular Sentence](https://leetcode.com/problems/circular-sentence/description/) | Easy | `String` | [Python](problems/2490_circular_sentence.py) |
 |2491| [Divide Players into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/description/) | Medium | `Two Pointers` `Hash Table` | [Python](problems/2491_divide_players_into_teams_of_equal_skill.py) |
 |2501| [Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/description/) | Medium | `Array` `Hash Table` `Sorting` | [Python](problems/2501_longest_square_streak_in_an_array.py) |
+|2530| [Maximal Score after Applying k Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/) | Medium | `Array` `Greedy` `Priority Queue` | [Python](problems/2583_maximal_score_after_applying_k_operations.py) |
 |2583| [Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/description/) | Medium | `Tree` `BFS` `Sorting` `Binary Tree` | [Python](problems/2583_kth_largest_sum_in_a_binary_tree.py) |
 |2641| [Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/description/) | Medium | `Tree` `Hash Table` `DFS` `BFS` | [Python](problems/2641_cousins_in_binary_tree_ii.py) |
 |2684| [Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/description/) | Medium | `Array` `Matrix` `Dynamic Programming` `BFS` | [Python](problems/2684_maximum_number_of_moves_in_a_grid.py) |
