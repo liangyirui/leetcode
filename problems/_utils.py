@@ -1,4 +1,4 @@
-from _classes import ListNode
+from _classes import ListNode, TreeNode
 
 
 def print_dict(hash_map: dict) -> None:
@@ -33,3 +33,7 @@ def list_to_linked_list(arr: list[int]) -> ListNode | None:
 def print_linked_list(head: ListNode | None) -> None:
     arr = linked_list_to_list(head)
     print(" -> ".join([str(item) for item in arr]))
+
+
+def tree_to_list(root: TreeNode | None) -> list[int]:
+    pass
