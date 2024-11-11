@@ -113,6 +113,7 @@
 |2501| [Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/description/) | Medium | `Array` `Hash Table` `Sorting` | [Python](problems/2501_longest_square_streak_in_an_array.py) |
 |2530| [Maximal Score after Applying k Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/) | Medium | `Array` `Greedy` `Priority Queue` | [Python](problems/2583_maximal_score_after_applying_k_operations.py) |
 |2583| [Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/description/) | Medium | `Tree` `BFS` `Sorting` `Binary Tree` | [Python](problems/2583_kth_largest_sum_in_a_binary_tree.py) |
+|2601| [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/) | Medium | `Array` `Greedy` `Math` | [Python](problems/2601_prime_subtraction_operation.py) |
 |2641| [Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/description/) | Medium | `Tree` `Hash Table` `DFS` `BFS` | [Python](problems/2641_cousins_in_binary_tree_ii.py) |
 |2684| [Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/description/) | Medium | `Array` `Matrix` `Dynamic Programming` `BFS` | [Python](problems/2684_maximum_number_of_moves_in_a_grid.py) |
 |2699| [Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights/description/) | Hard | `Graph` `Priority Queue` | [Python](problems/2699_modify_graph_edge_weights.py) |
