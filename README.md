@@ -113,6 +113,7 @@
 |2491| [Divide Players into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/description/) | Medium | `Two Pointers` `Hash Table` | [Python](problems/2491_divide_players_into_teams_of_equal_skill.py) |
 |2501| [Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/description/) | Medium | `Array` `Hash Table` `Sorting` | [Python](problems/2501_longest_square_streak_in_an_array.py) |
 |2530| [Maximal Score after Applying k Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/) | Medium | `Array` `Greedy` `Priority Queue` | [Python](problems/2583_maximal_score_after_applying_k_operations.py) |
+|2563| [Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/) | Medium | `Array` `Sorting` `Binary Search` `Two Pointers` | [Python](problems/2563_count_the_number_of_fair_pairs.py) |
 |2583| [Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/description/) | Medium | `Tree` `BFS` `Sorting` `Binary Tree` | [Python](problems/2583_kth_largest_sum_in_a_binary_tree.py) |
 |2601| [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/) | Medium | `Array` `Greedy` `Math` | [Python](problems/2601_prime_subtraction_operation.py) |
 |2641| [Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/description/) | Medium | `Tree` `Hash Table` `DFS` `BFS` | [Python](problems/2641_cousins_in_binary_tree_ii.py) |
