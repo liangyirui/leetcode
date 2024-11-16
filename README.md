@@ -129,3 +129,4 @@
 |3097| [Shortest Subarray with OR at least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/description/) | Medium | `Array` `Bit Manipulation` `Sliding Window` | [Python](problems/3097_shortest_subarray_with_or_at_least_k_ii.py) |
 |3163| [String Compression III](https://leetcode.com/problems/string-compression-iii/) | Medium | `String` | [Python](problems/3163_string_compression_iii.py) |
 |3217| [Delete Nodes from Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/description/) | Medium | `Array` `Hash Table` `Linked List` | [Python](problems/3217_delete_nodes_from_linkedlist_present_in_array.py) |
+|3254| [Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/description/) | Medium | `Array` `Sliding Window` | [Python](problems/3254_find_the_power_of_k_size_subarrays_i.py) |
