@@ -46,10 +46,11 @@
 |729| [My Calendar I](https://leetcode.com/problems/my-calendar-i/) | Medium | `Array` `Binary Search` `Design` `Ordered Set` | [Python](problems/0729_my_calendar_i.py) |
 |787| [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) | Medium | `Graph` `Heap` `Shortest Path` | [Python](problems/0787_cheapest_flights_within_k_stops.py) |
 |796| [Rotate String](https://leetcode.com/problems/rotate-string/description/) | Easy | `String` | [Python](problems/0796_rotate_string.py) |
-|840| [Magic Squares in Grid](https://leetcode.com/problems/magic-squares-in-grid/description/) | Medium | `Array` `Hash Table` `Math` `Matrix` | [Python](problems/0840_magic_squares_in_grid.py) |
 |815| [Bus Routes](https://leetcode.com/problems/bus-routes/description/) | Hard | `Graph` `Hash Table` `BFS` | [Python](problems/0815_bus_routes.py) |
 |826| [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/description/) | Medium | `Array` `Two Pointers` `Sorting` | [Python](problems/0826_most_profit_assigning_work.py) |
+|840| [Magic Squares in Grid](https://leetcode.com/problems/magic-squares-in-grid/description/) | Medium | `Array` `Hash Table` `Math` `Matrix` | [Python](problems/0840_magic_squares_in_grid.py) |
 |860| [Lemonade Change](https://leetcode.com/problems/lemonade-change/description/) | Easy | `Array` `Greedy` | [Python](problems/0860_lemonade_change.py) |
+|862| [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | Hard | `Array` `Queue` `Priority Queue` `Prefix Sum` `Monotonic Queue` | [Python](problems/0862_shortest_subarray_with_sum_at_least_k.py) |
 |874| [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/description/) | Medium | `Simulation` | [Python](problems/0874_walking_robot_simulation.py) |
 |884| [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/) | Easy | `String` `Counting` | [Python](problems/0884_uncommon_words_from_two_sentences.py) |
 |885| [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/description/) | Medium | `Array` `Matrix` `Simulation` | [Python](problems/0885_spiral_matrix_iii.py) |
