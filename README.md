@@ -93,6 +93,7 @@
 |1671| [Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/description/) | Hard | `Array` `Dynamic Programming` `Greedy` `Binary Search` | [Python](problems/1671_minimum_number_of_removals_to_make_mountain_array.py) |
 |1684| [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/description/) | Easy | `String` `Hash Set` | [Python](problems/1684_count_the_number_of_consistent_strings.py) |
 |1829| [Maximum XOR for each Query](https://leetcode.com/problems/maximum-xor-for-each-query/description/) | Medium | `Array` `Bit Manipulation` | [Python](problems/1829_maximum_xor_for_each_query.py) |
+|1861| [Rotate the Box](https://leetcode.com/problems/rotating-the-box/description/) | Medium | `Array` `Matrix` `Two Pointers` | [Python](problems/1861_rotating_the_box.py) |
 |1905| [Count Sub Islands](https://leetcode.com/problems/count-sub-islands/description/) | Medium | `Array` `DFS` `Matrix` | [Python](problems/1905_count_sub_islands.py) |
 |1937| [Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost/description/) | Medium | `Array` `Dynamic Programming` | [Python](problems/1937_maximum_number_of_points_with_cost.py) |
 |1945| [Sum of Digits of String after Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/description/) | Easy | `String` `Simulation` | [Python](problems/1945_sum_of_digits_of_string_after_convert.py) |
