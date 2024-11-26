@@ -44,6 +44,7 @@
 |719| [Find kth Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/) | Hard | `Array` `Two Pointers` `Binary Search` `Sorting` | [Python](problems/0719_find_kth_smallest_pair_distance.py) |
 |725| [Split List to Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/) | Medium | `Linked List` | [Python](problems/0725_split_linked_list_in_parts.py) |
 |729| [My Calendar I](https://leetcode.com/problems/my-calendar-i/) | Medium | `Array` `Binary Search` `Design` `Ordered Set` | [Python](problems/0729_my_calendar_i.py) |
+|773| [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/description/) | Hard | `Array` `BFS` `Matrix` | [Python](problems/0773_sliding_puzzle.py) |
 |787| [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) | Medium | `Graph` `Heap` `Shortest Path` | [Python](problems/0787_cheapest_flights_within_k_stops.py) |
 |796| [Rotate String](https://leetcode.com/problems/rotate-string/description/) | Easy | `String` | [Python](problems/0796_rotate_string.py) |
 |815| [Bus Routes](https://leetcode.com/problems/bus-routes/description/) | Hard | `Graph` `Hash Table` `BFS` | [Python](problems/0815_bus_routes.py) |
