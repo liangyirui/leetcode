@@ -132,6 +132,7 @@
 |2684| [Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/description/) | Medium | `Array` `Matrix` `Dynamic Programming` `BFS` | [Python](problems/2684_maximum_number_of_moves_in_a_grid.py) |
 |2699| [Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights/description/) | Hard | `Graph` `Priority Queue` | [Python](problems/2699_modify_graph_edge_weights.py) |
 |2824| [Count Pairs whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/) | Easy | `Array` `Sorting` `Two Pointers` | [Python](problems/2824_count_pairs_whose_sum_is_less_than_target.py) |
+|2924| [Find Champion II](https://leetcode.com/problems/find-champion-ii/description/) | Medium | `Graph` | [Python](problems/2924_find_champion_ii.py) |
 |2941| [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/) | Medium | `String` | [Python](problems/2914_minimum_number_of_changes_to_make_binary_string_beautiful.py) |
 |2976| [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/) | Medium | `Array` `Graph` `String` `Shortest Path`| [Python](problems/2976_minimum_cost_to_convert_string_i.py) |
 |3011| [Find if Array can be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/description/) | Medium | `Array` `Bit Manipulation` `Sorting` | [Python](problems/3011_find_if_array_can_be_sorted.py) |
