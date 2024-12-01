@@ -15,7 +15,7 @@
 |139| [Word Break](https://leetcode.com/problems/word-break/description/) | Medium | `Hash Table` `Dynamic Programming` | [Python](problems/0139_word_break.py) |
 |145| [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | Easy | `Tree` `Stack` `Binary Tree` | [Python](problems/0145_binary_tree_postorder_traversal.py) |
 |179| [Largest Number](https://leetcode.com/problems/largest-number/description/) | Medium | `Array` `String` `Greedy` `Sorting` | [Python](problems/0179_largest_number.py) |
-\209| [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/) | Medium | `Array` `Sliding Window` | [Python](problems/0209_minimum_size_subarray_sum.py) |
+|209| [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/) | Medium | `Array` `Sliding Window` | [Python](problems/0209_minimum_size_subarray_sum.py) |
 |210| [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/) | Medium | `DFS` `BFS` `Graph` `Topological Sort`| [Python](problems/0210_course_schedule_ii.py) |
 |235| [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | Medium | `DFS` `Tree` `Binary Tree` `Binary Search Tree`| [Python](problems/235_lowest_common_ancestor_of_BST.py) |
 |236| [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | Medium | `DFS` `Tree` `Binary Tree`| [Python](problems/0236_lowest_common_ancestor.py) |
@@ -38,6 +38,7 @@
 |590| [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/) | Easy | `Tree` `Stack` | [Python](problems/0590_nary_tree_postorder_traversal.py) |
 |592| [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/description/) | Medium | `Math` `String` `Simulation` | [Python](problems/0592_fraction_addition_and_subtraction.py) |
 |624| [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/description/) | Medium | `Array` `Greedy` | [Python](problems/0624_maximum_distance_in_arrays.py) |
+|632| [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/) | Hard | `Array` `Hash Table` `Greedy` `Sliding Window` `Sorting` `Priority Queue` | [Python](problems/0632_smallest_range_covering_elements_from_k_lists.py) |
 |641| [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/description/) | Medium | `Array` `Design` `Deque` | [Python](problems/0641_design_circular_deque.py) |
 |650| [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/description/) | Medium | `Math` `Dynamic Programming` | [Python](problems/0650_2_keys_keyboard.py) |
 |670| [Maximum Swap](https://leetcode.com/problems/maximum-swap/) | Medium | `Math` `Greedy` | [Python](problems/0670_maximum_swap.py) |
