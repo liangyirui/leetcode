@@ -63,6 +63,7 @@
 |951| [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/) | Medium | `Tree` `DFS` `Binary Tree` | [Python](problems/0951_flip_equivalent_binary_trees.py) |
 |959| [Regions Cut by Slashes](https://leetcode.com/problems/regions-cut-by-slashes/description/) | Medium | `Array` `DFS` `BFS` `Union Find` `Matrix` | [Python](problems/0959_regions_cut_by_slashes.py) |
 |1002| [Find Common Characters](https://leetcode.com/problems/find-common-characters/description/) | Easy | `Array` `Hash Table` `String` | [Python](problems/1002_find_common_characters.py) |
+|1004| [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/) | Medium | `Array` `Sliding Window` | [Python](problems/1004_max_consecutive_ones_iii.py) |
 |1072| [Flip Columns for Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/) | Medium | `Array` `Matrix` `Hash Table` | [Python](problems/1072_flip_columns_for_maximum_number_of_equal_rows.py) |
 |1105| [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/description/) | Medium | `Array` `Dynamic Programming` | [Python](problems/1105_filling_bookcase_shelves.py) |
 |1106| [Parsing a Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/description/) | Hard | `String` `Stack` | [Python](problems/1106_parsing_a_boolean_expression.py ) |
